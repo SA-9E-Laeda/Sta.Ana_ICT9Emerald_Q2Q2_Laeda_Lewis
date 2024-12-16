@@ -1,0 +1,33 @@
+body{
+	background-image: url('atlas.gif');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h2{
+	text-align: center;
+	background-color: #a83232;
+	text-shadow: 1px 1px steelblue;
+}
+
+p{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	text-shadow: 2px 2px #a35808;
+}
+
+.content{
+	background-color: #fa6c07;
+}
+
+.footer{
+	background-color: #fcba03;
+}
+
+.container-fluid{
+	background-color:;
+}

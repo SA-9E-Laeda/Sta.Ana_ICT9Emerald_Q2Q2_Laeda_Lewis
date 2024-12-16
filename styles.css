@@ -1,0 +1,60 @@
+h2{
+	text-align: center;
+}
+
+body{
+	background-image: url('atlas.gif');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	background-color: green;
+	text-shadow: 4px 4px #8c180f;
+}
+
+p{
+	text-align: center;
+	text-shadow: 1px 1px #4224c7;
+	  font-size: 23px;
+}
+
+h3{
+	text-align: center;
+	text-shadow: 2px 2px #11b8aa;
+	background-color: #03838f;
+}
+
+.content{
+	background-color: #c72427;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+h2{
+	background-color: yellow;
+	text-shadow: 2px 2px seagreen;
+}
+
+.submit{
+	text-shadow: #ad03fc;
+}
+
+.animate__animated.animate__bounceInUp {
+--animate-duration: 2s;}
+
+.animate__animated.animate__flipInX {
+  --animate-duration: 2s;
+
+.mx-2 {
+	text-align: center;
+}
+
+.container-fluid{
+	background-color:;
+}
